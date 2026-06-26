@@ -1,4 +1,4 @@
-# Clinic-Project
+# clinicaMédicaSQL
 
 Este projeto é um sistema simples de clínica médica em Java que usa SQLite para gerenciar médicos, pacientes e agendamentos.
 
